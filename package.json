@@ -12,7 +12,10 @@
     "prepare": "husky"
   },
   "lint-staged": {
-    "**/*": "prettier --write --ignore-unknown"
+    "src/**/*.{ts,tsx,js,jsx}": [
+      "npm run lint",
+      "npx prettier --write"
+    ]
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.5.2",
