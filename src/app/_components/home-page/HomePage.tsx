@@ -9,8 +9,6 @@ const PopularCategories = dynamic(
   () => import('./homeComponents/PopularCategories')
 );
 const HomePage = () => {
-  console.log('sunil');
-
   const [state, setState] = useState<any[]>([]);
 
   useEffect(() => {
