@@ -1,0 +1,120 @@
+/* [project]/src/styles/_upcoming_events.module.css [app-client] (css) */
+.upcoming_events_section___upcoming_events__afeb1883 {
+  background: rgba(106, 52, 189, 1);
+  border-radius: 16px;
+  padding: 25px 0;
+  margin: 0 100px;
+}
+.upcoming_event_heading___upcoming_events__afeb1883 {
+  font-family: 'Bricolage Grotesque', sans-serif;
+  font-size: 95px;
+  color: #fff;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  padding: 80px 0 50px 40px;
+}
+.upcoming_event_heading___upcoming_events__afeb1883 .event_tag___upcoming_events__afeb1883 {
+  background-color: #fff;
+  color: rgba(106, 52, 189, 1);
+  font-size: 95px;
+  font-weight: 700;
+  border-radius: 8px;
+  padding: 0.15em 0.22em;
+  display: inline-block;
+  position: relative;
+  left: 40px;
+  top: 15px;
+  transform: translateY(-1.8125rem) rotate(-3deg);
+  box-shadow: 10px 10px 0px 0px rgba(0, 0, 0, 0.25);
+}
+.upcoming_one__carousel___upcoming_events__afeb1883 {
+  max-width: 95%;
+  margin: 0 auto 50px;
+}
+.project_one__item___upcoming_events__afeb1883 img {
+  border-radius: 8px;
+}
+@media (max-width: 1480px) {
+  .upcoming_events_section___upcoming_events__afeb1883 {
+    margin: 80px 0 0;
+  }
+  .upcoming_event_heading___upcoming_events__afeb1883 {
+    font-size: 85px;
+    padding: 60px 0 40px 30px;
+  }
+  .upcoming_event_heading___upcoming_events__afeb1883 .event_tag___upcoming_events__afeb1883 {
+    font-size: 85px;
+    top: 20px;
+  }
+}
+@media (max-width: 1300px) {
+  .upcoming_events_section___upcoming_events__afeb1883 {
+    margin: 60px 0 0;
+  }
+  .upcoming_event_heading___upcoming_events__afeb1883 {
+    font-size: 80px;
+    padding: 60px 0 40px 30px;
+  }
+  .upcoming_event_heading___upcoming_events__afeb1883 .event_tag___upcoming_events__afeb1883 {
+    font-size: 70px;
+    top: 20px;
+  }
+}
+@media (max-width: 1199px) {
+  .upcoming_event_heading___upcoming_events__afeb1883 {
+    font-size: 70px;
+    padding: 60px 0 40px 30px;
+  }
+  .upcoming_event_heading___upcoming_events__afeb1883 .event_tag___upcoming_events__afeb1883 {
+    font-size: 60px;
+  }
+}
+@media (max-width: 991px) {
+  .upcoming-events-section___upcoming_events__afeb1883 {
+    margin: 60px 0 0;
+  }
+  .upcoming_event_heading___upcoming_events__afeb1883 {
+    font-size: 55px;
+    padding: 40px 0 30px 20px;
+  }
+  .upcoming_event_heading___upcoming_events__afeb1883 .event_tag___upcoming_events__afeb1883 {
+    font-size: 40px;
+    box-shadow: 7px 7px 0px 0px rgba(0, 0, 0, 0.25);
+  }
+  .upcoming-one__carousel___upcoming_events__afeb1883 {
+    margin: 0 auto 30px;
+  }
+}
+@media (max-width: 767px) {
+  .upcoming_event_heading___upcoming_events__afeb1883 {
+    font-size: 38px;
+    padding: 30px 0 15px 15px;
+  }
+  .upcoming_event_heading___upcoming_events__afeb1883 .event_tag___upcoming_events__afeb1883 {
+    font-size: 30px;
+    top: 30px;
+    left: 15px;
+    box-shadow: 5px 5px 0px 0px rgba(0, 0, 0, 0.25);
+  }
+}
+@media (max-width: 480px) {
+  .upcoming-events-section___upcoming_events__afeb1883 {
+    margin: 40px 0 0;
+  }
+  .upcoming_event_heading___upcoming_events__afeb1883 {
+    font-size: 34px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .upcoming_event_heading___upcoming_events__afeb1883 .event_tag___upcoming_events__afeb1883 {
+    font-size: 24px;
+    top: 35px;
+    left: 0;
+    box-shadow: 3px 3px 0px 0px rgba(0, 0, 0, 0.25);
+  }
+}
+
+/*# sourceMappingURL=src_styles__upcoming_events_module_78d218.css.map*/

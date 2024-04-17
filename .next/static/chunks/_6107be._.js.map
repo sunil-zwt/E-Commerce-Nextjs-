@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sections": [
+    {"offset": {"line": 8, "column": 0}, "map": {"version":3,"sources":["../../../../src/shared/lib/lazy-dynamic/dynamic-bailout-to-csr.tsx","/turbopack/[project]/node_modules/next/dist/shared/lib/lazy-dynamic/dynamic-bailout-to-csr.js"],"names":["children","window","BailoutToCSRError"],"mappings":"AAAA;;;;;;;;;;;AAcO,MAAA,gBAAsB;SAAA,aAAUA,KAAQ;IAC7C,IAAI,EAAA,MAAOC,EAAAA,QAAW,EAAA,GAAA;QACpB,OAAM,WAAIC,aAAAA;QACZ,MAAA,IAAA,cAAA,iBAAA,CAAA;IAEA;IACF,OAAA"}},
+    {"offset": {"line": 27, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

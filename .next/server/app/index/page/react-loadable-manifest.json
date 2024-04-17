@@ -1,0 +1,8 @@
+{
+  "src/app/page.tsx -> @/app/_components/home-page/HomePage": {
+    "id": "src/app/page.tsx -> @/app/_components/home-page/HomePage",
+    "files": [
+      "chunks/_23f570._.js"
+    ]
+  }
+}
