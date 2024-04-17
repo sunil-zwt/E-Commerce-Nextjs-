@@ -12,9 +12,13 @@
     "prepare": "husky"
   },
   "lint-staged": {
-    "src/**/*.{ts,tsx,js,jsx}": [
-      "npm run lint",
-      "npx prettier --write"
+    "*/**/*.{js,jsx,ts,tsx}": [
+      "prettier --write",
+      "eslint --fix",
+      "eslint"
+    ],
+    "*/**/*.{json,css,md}": [
+      "prettier --write"
     ]
   },
   "dependencies": {
