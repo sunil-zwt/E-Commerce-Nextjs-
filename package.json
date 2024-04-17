@@ -9,7 +9,7 @@
     "lint": "next lint --no-cache",
     "format": "prettier --write \"**/*.{ts,tsx,md,mdx,css,scss}\"",
     "format:fix": "prettier --write --ignore-path .gitignore .",
-    "prepare": "husky install"
+    "prepare": "husky"
   },
   "lint-staged": {
     "src/**/*.{ts,tsx,js,jsx}": [
