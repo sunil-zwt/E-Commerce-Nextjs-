@@ -3,6 +3,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faMapMarkerAlt } from '@fortawesome/free-solid-svg-icons';
 import Image from 'next/image';
 import styles from '@/styles/_popular_events.module.css';
+import React from 'react';
 
 interface Event {
   cardImage: string;

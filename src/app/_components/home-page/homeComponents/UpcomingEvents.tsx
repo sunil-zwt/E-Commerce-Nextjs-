@@ -188,12 +188,10 @@
 // };
 
 // export default UpcomingEvents;
-import React from 'react'
+import React from 'react';
 
 const UpcomingEvents = () => {
-  return (
-    <div>UpcomingEvents</div>
-  )
-}
+  return <div>UpcomingEvents</div>;
+};
 
-export default UpcomingEvents
+export default UpcomingEvents;
